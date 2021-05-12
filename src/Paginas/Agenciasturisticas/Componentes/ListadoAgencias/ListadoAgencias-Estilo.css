@@ -1,0 +1,10 @@
+.ListadoAgencias {
+    width: 95%;
+    height: 60%;
+    margin : auto;
+    border: 1px solid rgb(255, 0, 255);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
